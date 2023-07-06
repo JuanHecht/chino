@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chino/static/css/main.e2feec10.css",
+    "main.js": "/chino/static/js/main.d2a645cd.js",
+    "static/media/portfolio-img2.png": "/chino/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/juan.png": "/chino/static/media/juan.cf1d317986e6624fc2d7.png",
+    "static/media/portfolio-img3.png": "/chino/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/chino/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/chino/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/services.png": "/chino/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/pelu_1.png": "/chino/static/media/pelu_1.562e9ba10fd5f6cf9e03.png",
+    "static/media/logo.svg": "/chino/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
+    "index.html": "/chino/index.html",
+    "main.e2feec10.css.map": "/chino/static/css/main.e2feec10.css.map",
+    "main.d2a645cd.js.map": "/chino/static/js/main.d2a645cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2feec10.css",
+    "static/js/main.d2a645cd.js"
+  ]
+}
